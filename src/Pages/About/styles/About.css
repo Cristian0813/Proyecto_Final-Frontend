@@ -1,0 +1,67 @@
+/*STYLE FROM ABOUT.JSX*/
+.ContentPatherAbuot {
+    margin: 50px;
+    padding: 10px;
+}
+
+.ContentPhater1About {
+    width: 22vw;
+    margin: 20px;
+}
+
+.ContentSonAbout {
+    margin: 10px;
+    display: flex;
+    align-items: center;
+}
+
+.ContentSon1About {
+    flex: 1;
+    margin: 1rem;
+    width: 35vw;
+    font-size: 15px;
+}
+
+.ContentSon2About {
+    margin: 20px;
+    display: flex;
+    align-items: center;
+}
+
+/* Media query para pantallas de 990px o menos FROM ABOUT.JSX*/
+@media (max-width: 890px) {
+
+    .ContentPatherAbuot {
+        width: 100%;
+        margin: auto;
+    }
+
+    .ContentPhater1About {
+        width: 75%;
+        font-size: 20px;
+        margin: auto;
+    }
+
+    .ContentSonAbout {
+        flex-direction: column;
+        margin: auto;
+    }
+
+    .ContentSon1About {
+        width: 100%;
+        margin: initial;
+    }
+
+    .ContentSon2About {
+        margin-left: 20px;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+    }
+
+    .iframeAbout {
+        margin: auto;
+        width: auto;
+        height: 100%;
+    }
+}

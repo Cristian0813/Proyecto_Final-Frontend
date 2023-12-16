@@ -1,0 +1,19 @@
+.Form_Group {
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+
+.FormGroup {
+    width: 50%;
+    margin: auto;
+}
+
+.FormButton {
+    width: 50%;
+    display: flex;
+    justify-content: space-between;
+    margin-top: 20px;
+}
