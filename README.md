@@ -1,6 +1,8 @@
 # Proyecto final Frontend
 Este es el repositorio del frontend para el proyecto final de una cerrajería. Este proyecto fue desarrollado utilizando React y Bootstrap para construir una interfaz de usuario interactiva y receptiva.
 
+**_Estos son solo ejemplos básicos, ajusta y amplía según las necesidades específicas de tu proyecto._**
+
 ## Demo
 
 https://cerrajeriamalla.netlify.app
