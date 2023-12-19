@@ -15,7 +15,7 @@ Asegúrate de tener Node.js y npm instalados en tu máquina.
 ### Instalación
 1. Clona este repositorio:
     ```fish
-    git clone https://github.com/tu-usuario/cerrajeria-frontend.git
+    git clone https://github.com/Cristian0813/Proyecto_final_frontend.git
     ```
 1. Navega al directorio del proyecto:
     ```ruby
