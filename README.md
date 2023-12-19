@@ -1,6 +1,9 @@
-
 # Proyecto final Frontend
 Este es el repositorio del frontend para el proyecto final de una cerrajería. Este proyecto fue desarrollado utilizando React y Bootstrap para construir una interfaz de usuario interactiva y receptiva.
+
+## Demo
+
+https://cerrajeriamalla.netlify.app
 
 ### Requisitos
 Asegúrate de tener Node.js y npm instalados en tu máquina.
@@ -52,11 +55,6 @@ Crea una nueva rama **(git checkout -b feature/nueva-funcionalidad)**
 Realiza tus cambios y haz commit **(git commit -m 'Agrega nueva funcionalidad')**
 Haz push a la rama **(git push origin feature/nueva-funcionalidad)**
 Abre un Pull Request
-
-## Demo
-
-https://cerrajeriamalla.netlify.app
-
 
 ## Authors
 
