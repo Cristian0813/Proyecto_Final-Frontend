@@ -38,14 +38,14 @@ npn run dev
 Esto iniciará la aplicación en modo de desarrollo. Abre http://localhost:3000 en tu navegador para ver la aplicación.
 
 ### Dependencias
-- [axios](https://www.npmjs.com/package/axios">)
-- [bootstrap](https://www.npmjs.com/package/bootstrap">)  
-- [react](https://www.npmjs.com/package/react">)
-- [react-bootstrap](https://www.npmjs.com/package/react-bootstrap">)
-- [react-bootstrap-icons](https://www.npmjs.com/package/react-bootstrap-icons">)
-- [react-dom](https://www.npmjs.com/package/react-dom">)
-- [react-icons](https://www.npmjs.com/package/react-icons">)
-- [react-router-dom](https://www.npmjs.com/package/react-router-dom">)
+- [axios](https://www.npmjs.com/package/axios)
+- [bootstrap](https://www.npmjs.com/package/bootstrap)  
+- [react](https://www.npmjs.com/package/react)
+- [react-bootstrap](https://www.npmjs.com/package/react-bootstrap)
+- [react-bootstrap-icons](https://www.npmjs.com/package/react-bootstrap-icons)
+- [react-dom](https://www.npmjs.com/package/react-dom)
+- [react-icons](https://www.npmjs.com/package/react-icons)
+- [react-router-dom](https://www.npmjs.com/package/react-router-dom)
 
 ## Contribuir
 Si deseas contribuir a este proyecto, por favor...
