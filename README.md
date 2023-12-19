@@ -52,11 +52,11 @@ Esto iniciará la aplicación en modo de desarrollo. Abre http://localhost:3000 
 ## Contribuir
 Si deseas contribuir a este proyecto, por favor...
 
-Haz un fork del proyecto.
-Crea una nueva rama **(git checkout -b feature/nueva-funcionalidad)**
-Realiza tus cambios y haz commit **(git commit -m 'Agrega nueva funcionalidad')**
-Haz push a la rama **(git push origin feature/nueva-funcionalidad)**
-Abre un Pull Request
+1. Haz un fork del proyecto.
+1. Crea una nueva rama **(git checkout -b feature/nueva-funcionalidad)**
+1. Realiza tus cambios y haz commit **(git commit -m 'Agrega nueva funcionalidad')**
+1. Haz push a la rama **(git push origin feature/nueva-funcionalidad)**
+1. Abre un Pull Request
 
 ## Authors
 
