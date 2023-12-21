@@ -21,9 +21,9 @@ function App() {
           <Routes>
             <Route path='/' element={<NavBarMalla />}>
               <Route index element={<Home />} />
-              <Route path='SobreNosotros' element={<About />} />
-              <Route path='NuestrosProductos' element={<OurProduct />} />
-              <Route path='Contactanos' element={<Contact />} />
+              <Route path='/SobreNosotros' element={<About />} />
+              <Route path='/NuestrosProductos' element={<OurProduct />} />
+              <Route path='/Contactanos' element={<Contact />} />
               <Route path='*' element={<Navigate replace to='/' />} />
             </Route>
           </Routes>

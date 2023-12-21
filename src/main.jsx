@@ -4,10 +4,9 @@ import App from './Routes/App/App';
 
 import './index.css'
 import 'bootstrap/dist/css/bootstrap.min.css';
-import { Router } from 'react-router-dom';
 
 ReactDOM.createRoot(document.getElementById('root')).render(
-  <Router>
+  <React.StrictMode>
     <App />
-  </Router>,
+  </React.StrictMode>,
 )
